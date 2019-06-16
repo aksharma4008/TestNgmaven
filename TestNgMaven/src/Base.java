@@ -8,7 +8,7 @@ public class Base {
 	//commit1	
 		System.out.println("Aa");
 		
-		System.out.println("hhh");
+		
 	}
 	
 }
